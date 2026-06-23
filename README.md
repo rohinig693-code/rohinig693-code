@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohini Gowda</h1>
+<h1 align="center">Hi 👋, I'm Rohini B M </h1>
 <h3 align="center">Java Developer | Problem Solver | Software Engineer</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 💻 Interested in **Software Development & Full Stack Development**
 - 🚀 Solving coding problems and preparing for technical interviews
 - 📚 Learning **Spring Boot & Advanced Java**
-- 📫 Reach me at: **your-email@example.com**
+
 
 ---
 
@@ -77,10 +77,27 @@
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rohinig693-code)
+<p align="left">
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/rohinig693-code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+📧 **Email:** [rohinig693@gmail.com](mailto:your-email@gmail.com)
+
+💻 **GitHub:** https://github.com/rohinig693-code
+
+🔗 **LinkedIn:** https://linkedin.com/in/rohini263630
 
 ⭐ Thanks for visiting my profile!## Hi there 👋
 
