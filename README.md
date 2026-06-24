@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohini B M </h1>
-<h3 align="center">Java Developer | Problem Solver | SQl Developer | Software Engineer</h3>
+<h3 align="center">Java Developer | SQL Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohinig693-code&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
