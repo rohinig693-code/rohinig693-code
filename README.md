@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohini B M </h1>
-<h3 align="center">Java Developer | Problem Solver | Software Engineer</h3>
+<h3 align="center">Java Developer | Problem Solver | SQl Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohinig693-code&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -21,8 +21,11 @@
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
